@@ -1,0 +1,8 @@
+{
+  "name": "Prompt Architect Engine",
+  "description": "A sophisticated AI prompt engineering platform that translates Bangla/Banglish, analyzes intent, and constructs high-quality prompts with an interactive MCQ clarification system.",
+  "requestFramePermissions": [
+    "microphone"
+  ],
+  "majorCapabilities": []
+}
